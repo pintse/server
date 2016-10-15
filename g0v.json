@@ -1,0 +1,20 @@
+{
+  "repo" :"inLiveTW/server",
+  "author" : "yutin1987",
+  "status" : "",
+  "name": "inLiveTW server",
+  "name_zh": "inLiveTW server",
+  "description": "inLiveTW server",
+  "description_zh": "inLiveTW server",
+  "homepage" : "",
+  "thumbnail" : "",
+  "document": "",
+  "repository": "https://github.com/inLiveTW/server",
+  "licenses": [],
+  "keywords": [],
+  "audience": [],
+  "products" :[],
+  "partOf": "",
+  "contributors" :[],
+  "needs" : []
+}
